@@ -1,0 +1,11 @@
+Final
+Meta 1.1
+
+.idea
+*/docs
+*/.idea
+*/target
+*/*.vpp.*
+*/*.class
+*/*.iml
+*/.gitignore
